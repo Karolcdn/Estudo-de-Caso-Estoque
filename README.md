@@ -2,7 +2,7 @@
 
 ![](https://images.squarespace-cdn.com/content/v1/505102d6e4b0d25dcc625b57/1510669119738-8BS1KBML6M5ZPBCH9PVH/inventario.jpg)
 
-A partir da situação descrita, crie um banco de dados no PostgreSQL e a tabela estoque da Empresa W, utilizando o arquivo em .csv. 
+A partir da situação descrita, crie a tabela estoque da Empresa W no PostgreSQL, utilizando o arquivo em .csv. 
 
 ***A Odisseia da Empresa K em busca de Análises Otimizadas
 Era uma vez, em uma empresa chamada W, que vivia no mundo dos negócios, enfrentava uma grande adversidade: problemas de lentidão em seus relatórios e painéis. Os analistas de dados da Empresa W lutavam para realizar análises eficientes e obter insights valiosos a partir dos dados.***
@@ -16,4 +16,6 @@ Era uma vez, em uma empresa chamada W, que vivia no mundo dos negócios, enfrent
 
 [link - banco de dados - Estoque](https://github.com/aasouzaconsult/business_intelligence/blob/main/Case%20Estudo%20-%20Estoque/bd_estoque.sql)
 
-## Criando os Modelos de Entidade e Relacionamento
+## Criando o Banco (bd_estoque)
+ ```CREATE DATABASE db_estoque```
+
