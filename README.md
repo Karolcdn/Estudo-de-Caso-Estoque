@@ -1,4 +1,6 @@
-## Estudo de caso - Estoque (Análise de Dados)
+## Estudo de caso - Estoque 
+
+Desafio: a partir da situação descrita, crie um banco de dados no SGBD PostgreSQL e a tabela estoque da Empresa W. 
 
 ***A Odisseia da Empresa K em busca de Análises Otimizadas
 Era uma vez, em uma empresa chamada W, que vivia no mundo dos negócios, enfrentava uma grande adversidade: problemas de lentidão em seus relatórios e painéis. Os analistas de dados da Empresa W lutavam para realizar análises eficientes e obter insights valiosos a partir dos dados.***
